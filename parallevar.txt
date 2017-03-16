@@ -4,4 +4,9 @@ bufanda
 ipad
 cámara réflex
 pantalones
+<<<<<<< HEAD
 camisetas
+=======
+camisetas
+bañador
+>>>>>>> opcionales
