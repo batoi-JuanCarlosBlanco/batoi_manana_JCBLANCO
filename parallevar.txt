@@ -3,3 +3,6 @@ pijama
 bufanda
 ipad
 cámara réflex
+pantalones
+camisetas
+bañador
